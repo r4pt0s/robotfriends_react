@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-##First React App
+## First React App
 
 This is the first complete React App done with help of Udemy Course Zero to Mastery.
 
