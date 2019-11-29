@@ -1,16 +1,25 @@
 {
-  "main.css": "/robotfriends_react/static/css/main.19e1ec5e.chunk.css",
-  "main.js": "/robotfriends_react/static/js/main.338daa9a.chunk.js",
-  "main.js.map": "/robotfriends_react/static/js/main.338daa9a.chunk.js.map",
-  "static/css/1.3497a8ee.chunk.css": "/robotfriends_react/static/css/1.3497a8ee.chunk.css",
-  "static/js/1.e22dd072.chunk.js": "/robotfriends_react/static/js/1.e22dd072.chunk.js",
-  "static/js/1.e22dd072.chunk.js.map": "/robotfriends_react/static/js/1.e22dd072.chunk.js.map",
-  "runtime~main.js": "/robotfriends_react/static/js/runtime~main.149e3b19.js",
-  "runtime~main.js.map": "/robotfriends_react/static/js/runtime~main.149e3b19.js.map",
-  "static/css/1.3497a8ee.chunk.css.map": "/robotfriends_react/static/css/1.3497a8ee.chunk.css.map",
-  "static/media/App.css": "/robotfriends_react/static/media/STARWARS.35f31c7a.woff",
-  "static/css/main.19e1ec5e.chunk.css.map": "/robotfriends_react/static/css/main.19e1ec5e.chunk.css.map",
-  "index.html": "/robotfriends_react/index.html",
-  "precache-manifest.8cd017a746fce1bfc3942276bccc2ef2.js": "/robotfriends_react/precache-manifest.8cd017a746fce1bfc3942276bccc2ef2.js",
-  "service-worker.js": "/robotfriends_react/service-worker.js"
+  "files": {
+    "main.css": "/r4pt0s/robotfriends_react/static/css/main.4120d3ed.chunk.css",
+    "main.js": "/r4pt0s/robotfriends_react/static/js/main.e7b128dd.chunk.js",
+    "main.js.map": "/r4pt0s/robotfriends_react/static/js/main.e7b128dd.chunk.js.map",
+    "runtime-main.js": "/r4pt0s/robotfriends_react/static/js/runtime-main.2b637af3.js",
+    "runtime-main.js.map": "/r4pt0s/robotfriends_react/static/js/runtime-main.2b637af3.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/r4pt0s/robotfriends_react/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1f39b60e.chunk.js": "/r4pt0s/robotfriends_react/static/js/2.1f39b60e.chunk.js",
+    "static/js/2.1f39b60e.chunk.js.map": "/r4pt0s/robotfriends_react/static/js/2.1f39b60e.chunk.js.map",
+    "index.html": "/r4pt0s/robotfriends_react/index.html",
+    "precache-manifest.fe51c2ae59679d2ccef451cc7ea644d2.js": "/r4pt0s/robotfriends_react/precache-manifest.fe51c2ae59679d2ccef451cc7ea644d2.js",
+    "service-worker.js": "/r4pt0s/robotfriends_react/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/r4pt0s/robotfriends_react/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4120d3ed.chunk.css.map": "/r4pt0s/robotfriends_react/static/css/main.4120d3ed.chunk.css.map",
+    "static/media/App.css": "/r4pt0s/robotfriends_react/static/media/STARWARS.35f31c7a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b637af3.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1f39b60e.chunk.js",
+    "static/css/main.4120d3ed.chunk.css",
+    "static/js/main.e7b128dd.chunk.js"
+  ]
 }
